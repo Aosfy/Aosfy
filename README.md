@@ -25,7 +25,7 @@
  
   
  
-  ![Snake animation](https://github.com/Aosfy/Aosfy/blob/output/github-contribution-grid-snake.svg)
+  
 
   
  
